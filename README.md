@@ -1,6 +1,6 @@
 # hello-world
 just a try
-echo "# hello-world" >> README.md
+echo "# 这是第一次，大家多多指教" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
