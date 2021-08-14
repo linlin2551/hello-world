@@ -1,5 +1,4 @@
 # hello-world
-just a try
 echo "# 这是第一次，大家多多指教" >> README.md
 git init
 git add README.md
